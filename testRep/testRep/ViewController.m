@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     //1
     //A2
+    //A7
 }
 
 - (void)didReceiveMemoryWarning {
